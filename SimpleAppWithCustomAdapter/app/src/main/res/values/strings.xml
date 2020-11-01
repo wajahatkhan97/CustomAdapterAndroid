@@ -1,0 +1,120 @@
+<resources>
+    <string name="app_name">project2</string>
+    <string name="entire_pic">CompletePic</string>
+    <string name="official_webpage">WebPage</string>
+    <string name="name_address">Name nd Address</string>
+
+    <string-array name="kia_dealers">
+        <item >Kia of Lincolnwood<br>
+            6750 Lincoln Ave, Lincolnwood, IL 60712</br>
+        </item>
+        <item >
+            Evergreen Kia <br>
+            9205 S Western Ave, Chicago, IL 60643
+       </br>
+        </item>
+
+        <item >
+           Berwyn Kia<br>
+            7050 Ogden Ave, Berwyn, IL 60402</br>
+        </item>
+
+    </string-array>
+
+    <string-array name="nissandealers">
+         <item>
+    Berman Nissan of Chicago
+             3456 N Kedzie Ave
+        </item>
+        <item>
+            Western Avenue Nissan
+            7410 S Western Ave
+        </item>
+        <item>
+            The Autobarn Nissan of Evanston
+            Evanston, IL
+        </item>
+    </string-array>
+
+
+    <string-array name="Chevydealers">
+    <item>
+   Mike Anderson Chevrolet of Chicago
+5333 W Irving Park Rd, Chicago, IL 60641
+    </item>
+        <item>
+            Kingdom Chevy
+6603 S Western Ave, Chicago, IL 60636
+
+        </item>
+
+        <item>
+           Rogers Chevrolet
+
+            2720 S Michigan Ave, Chicago, IL 60616
+        </item>
+
+    </string-array>
+
+
+
+    <string-array name="maseratidealers">
+
+
+        <item>
+  MASERATI OF CHICAGO
+834 N Rush St, Chicago, IL 60611
+    </item>
+        <item>
+Fields Maserati
+250 Skokie Valley Rd, Highland Park, IL 60035
+        </item>
+
+        <item>
+Maserati of Naperville
+
+1540 W Ogden Ave, Naperville, IL 60540
+        </item>
+
+
+    </string-array>
+
+
+    <string-array name="BMWdealers">
+<item>
+Perillo BMW
+1035 N Clark St, Chicago, IL 60610
+</item>
+        <item>
+Elmhurst BMW
+ 500 W Lake St, Elmhurst, IL 60126
+        </item>
+
+        <item>
+Laurel BMW of Westmont
+
+430 E Ogden Ave, Westmont, IL 60559
+        </item>
+
+    </string-array>
+
+
+    <string-array name="HondaDealers">
+
+<item>
+McGrath City Honda
+6720 W Grand Ave., Chicago, IL 60707
+</item>
+        <item>
+North City Honda
+6600 N Western Ave, Chicago, IL 60645
+        </item>
+
+        <item>
+Honda of Downtown Chicago
+
+1111 N Clark St #2, Chicago, IL 60610
+        </item>
+    </string-array>
+
+</resources>
